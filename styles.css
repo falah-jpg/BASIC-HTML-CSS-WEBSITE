@@ -1,5 +1,5 @@
 * {
-    font-family: sans-serif;
+    font-family: Comic Sans MS, cursive, sans-serif;
 }
 main {
     display: flex;
@@ -9,8 +9,8 @@ main {
 }
 
 body {
-    background-color: cadetblue;
-    color: white;
+    background-color: violet;
+    color: yellow;
 }
 
 h1 {
@@ -20,6 +20,7 @@ h1 {
 }
 
 h2 {
+    font-size: 40px;
     font-style: italic;
     font-weight: 500;
 }
