@@ -9,13 +9,13 @@ main {
 }
 
 body {
-    background-color: violet;
-    color: yellow;
+    background-color: rgb(233, 187, 233);
+    color: #f5f57c;
 }
 
 h1 {
     font-size: 60px;
-    margin: 0;
+    margin: 20px;
     margin-top: 60px;
 }
 

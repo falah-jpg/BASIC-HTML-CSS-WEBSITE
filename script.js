@@ -1,3 +1,3 @@
-function ClickHello() {
+function ClickMeow() {
     alert("Meow!");
 }
