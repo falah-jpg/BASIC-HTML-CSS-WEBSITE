@@ -29,3 +29,8 @@ img {
     width: 600px;
     border-radius: 20px;
 }
+
+ul, ol {
+    font-size: 28px; /* Standard sizes: 14px, 16px, 18px, 24px, etc. */
+}
+
